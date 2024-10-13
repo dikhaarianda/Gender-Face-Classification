@@ -18,7 +18,7 @@ This repository is used to fulfill the first assignment - Face Recognition from 
 
 - Dataset Count:
 
-    ![Dataset](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/assets/DatsetCount.png)
+    ![Dataset](https://github.com/dikhaarianda/Gender-Face-Classification/blob/ad1e03501fb1978c66911942764065b28d6ae667/assets/DatsetCount.png)
     ```
     Dataset total: 5.000
     Split dataset: 
@@ -29,7 +29,7 @@ This repository is used to fulfill the first assignment - Face Recognition from 
 
 - Training and Validation:
 
-    ![Chart](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/assets/Chart_TrainingValidate.png)
+    ![Chart](https://github.com/dikhaarianda/Gender-Face-Classification/blob/ad1e03501fb1978c66911942764065b28d6ae667/assets/Chart_TrainingValidate.png)
     ```
     Epoch: 10
     Batch Size: 32
@@ -44,14 +44,14 @@ This repository is used to fulfill the first assignment - Face Recognition from 
 
 - Classification Report:
 
-    ![Report](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/assets/ClassificationReport.png)
+    ![Report](https://github.com/dikhaarianda/Gender-Face-Classification/blob/ad1e03501fb1978c66911942764065b28d6ae667/assets/ClassificationReport.png)
     ```
     note: Because the data is imbalanced, the F1-Score is used as a reference
     ```
 
 - Confusion Matrix:
 
-    ![confusion](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/assets/ConfusionMatrix.png)
+    ![confusion](https://github.com/dikhaarianda/Gender-Face-Classification/blob/ad1e03501fb1978c66911942764065b28d6ae667/assets/ConfusionMatrix.png)
     ```
     Correct:
         Male: 195 | Female: 295
