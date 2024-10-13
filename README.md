@@ -3,22 +3,22 @@ This repository is used to fulfill the first assignment - Face Recognition from 
 
 ## Repository Structure
 🔗 Result Team:
-- [Slide](https://github.com/dikhaarianda/Gender-FaceRecognition/blob/master/ResultTeam/Slide%20Presentation_CV-1.pdf)
-- [GoogleLeNet](https://github.com/dikhaarianda/Gender-FaceRecognition/blob/master/ResultTeam/Model-GoogleLeNet.ipynb)
-- [ResNet](https://github.com/dikhaarianda/Gender-FaceRecognition/blob/master/ResultTeam/Model-ResNet.ipynb)
-- [VGG](https://github.com/dikhaarianda/Gender-FaceRecognition/blob/master/ResultTeam/Model-VGG.ipynb)
+- [Slide](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/ResultTeam/Slide%20Presentation_CV-1.pdf)
+- [GoogleLeNet](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/ResultTeam/Model-GoogleLeNet.ipynb)
+- [ResNet](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/ResultTeam/Model-ResNet.ipynb)
+- [VGG](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/ResultTeam/Model-VGG.ipynb)
 
 🔗 Self Experiment:
-- [Data-Preparation](https://github.com/dikhaarianda/Gender-FaceRecognition/blob/master/DataPreparation.ipynb)
-- [Model-Experiment](https://github.com/dikhaarianda/Gender-FaceRecognition/blob/master/Model_Experiment.ipynb)
-- [Model-Fix](https://github.com/dikhaarianda/Gender-FaceRecognition/blob/master/Model_Fix.ipynb)
+- [Data-Preparation](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/DataPreparation.ipynb)
+- [Model-Experiment](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/Model_Experiment.ipynb)
+- [Model-Fix](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/Model_Fix.ipynb)
 
 ## Report Self-Experiment
 *Architecture: **Pytorch VGG-16***
 
 - Dataset Count:
 
-    ![Dataset](https://github.com/dikhaarianda/FaceRecognition-VGG16/blob/master/assets/DatsetCount.png)
+    ![Dataset](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/assets/DatsetCount.png)
     ```
     Dataset total: 5.000
     Split dataset: 
@@ -29,7 +29,7 @@ This repository is used to fulfill the first assignment - Face Recognition from 
 
 - Training and Validation:
 
-    ![Chart](https://github.com/dikhaarianda/FaceRecognition-VGG16/blob/master/assets/Chart_TrainingValidate.png)
+    ![Chart](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/assets/Chart_TrainingValidate.png)
     ```
     Epoch: 10
     Batch Size: 32
@@ -44,14 +44,14 @@ This repository is used to fulfill the first assignment - Face Recognition from 
 
 - Classification Report:
 
-    ![Report](https://github.com/dikhaarianda/FaceRecognition-VGG16/blob/master/assets/ClassificationReport.png)
+    ![Report](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/assets/ClassificationReport.png)
     ```
     note: Because the data is imbalanced, the F1-Score is used as a reference
     ```
 
 - Confusion Matrix:
 
-    ![confusion](https://github.com/dikhaarianda/FaceRecognition-VGG16/blob/master/assets/ConfusionMatrix.png)
+    ![confusion](https://github.com/dikhaarianda/Gender-Face-Classification/blob/master/assets/ConfusionMatrix.png)
     ```
     Correct:
         Male: 195 | Female: 295
